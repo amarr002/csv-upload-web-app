@@ -1,0 +1,11 @@
+Email,Name,CreditScore,CreditLines,MaskedPhoneNumber
+user1@example.com,Jane Doe,570,1,***-***-0220
+user2@example.com,John Smith,774,3,***-***-6086
+user3@example.com,John Doe,796,4,***-***-0320
+user4@example.com,John Smith,684,1,***-***-5141
+user5@example.com,Jane Doe,631,1,***-***-0332
+user6@example.com,Jane Doe,738,1,***-***-6340
+user7@example.com,John Smith,618,2,***-***-8185
+user8@example.com,John Smith,641,2,***-***-9709
+user9@example.com,John Smith,794,2,***-***-7747
+user10@example.com,John Doe,567,4,***-***-2615
